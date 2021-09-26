@@ -9,6 +9,8 @@ import android.os.Bundle
 import android.widget.Toast
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
+import com.google.firebase.auth.FirebaseAuth
+import com.google.firebase.firestore.FirebaseFirestore
 import com.google.firebase.storage.FirebaseStorage
 import kotlinx.android.synthetic.main.activity_add_photo.*
 import kotlinx.android.synthetic.main.activity_main.*
@@ -48,7 +50,7 @@ class AddPhotoActivity : AppCompatActivity() {
         if(requestCode==PICK_IMAGE_FROM_ALBUM){
             if(resultCode==PICK_IMAGE_FROM_ALBUM){
                 photoUri=data?.data
-//                addphoto_image.setImageURI(photoUri)
+                addphoto_image.setImageURI(photoUri)
             }else{
                 finish();
             }
