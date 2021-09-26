@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Download/Knurling/app/src/main/res/drawable/rounded_button.xml" value="0.18125" />
+        <entry key="..\:/Download/Knurling/app/src/main/res/drawable/rounded_edittext_register_login.xml" value="0.18125" />
+        <entry key="..\:/Download/Knurling/app/src/main/res/drawable/rounded_select_photo.xml" value="0.18125" />
         <entry key="..\:/Download/Knurling/app/src/main/res/layout/activity_add_photo.xml" value="0.16" />
+        <entry key="..\:/Download/Knurling/app/src/main/res/layout/activity_login.xml" value="0.16510416666666666" />
+        <entry key="..\:/Download/Knurling/app/src/main/res/layout/activity_main.xml" value="0.14221014492753623" />
+        <entry key="..\:/Download/Knurling/app/src/main/res/layout/menu.xml" value="0.14402173913043478" />
         <entry key="..\:/Users/KJH/Desktop/android/KotlinMessenger/app/src/main/res/drawable/rounded_button.xml" value="0.22135416666666666" />
         <entry key="..\:/Users/KJH/Desktop/android/KotlinMessenger/app/src/main/res/drawable/rounded_edittext_register_login.xml" value="0.22135416666666666" />
         <entry key="..\:/Users/KJH/Desktop/android/KotlinMessenger/app/src/main/res/drawable/rounded_select_photo.xml" value="0.209375" />

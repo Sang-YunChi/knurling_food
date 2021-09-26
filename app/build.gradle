@@ -31,6 +31,11 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
+
+    viewBinding {
+        enabled = true
+    }
+
 }
 
 apply plugin: 'com.android.application'
@@ -55,6 +60,7 @@ dependencies {
     implementation 'androidx.multidex:multidex:2.0.1'
     implementation "io.grpc:grpc-okhttp:1.32.2"
     implementation 'com.google.firebase:firebase-database-ktx'
+    implementation 'com.google.firebase:firebase-storage:16.0.5'
 
 
 
