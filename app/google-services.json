@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "194220127303",
+    "project_id": "knurling-d381b",
+    "storage_bucket": "knurling-d381b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194220127303:android:6d50d47124b7632fe46d62",
+        "android_client_info": {
+          "package_name": "com.example.knurling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194220127303-12unld02lecq4sms6lkapg5i9ukls04f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP8emr2wKwWQjMTcyoxMlVajck7vlfRtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194220127303-12unld02lecq4sms6lkapg5i9ukls04f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194220127303:android:503c6465811cfd12e46d62",
+        "android_client_info": {
+          "package_name": "com.example.kotlinmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194220127303-12unld02lecq4sms6lkapg5i9ukls04f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP8emr2wKwWQjMTcyoxMlVajck7vlfRtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194220127303-12unld02lecq4sms6lkapg5i9ukls04f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
