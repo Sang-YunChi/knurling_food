@@ -28,7 +28,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 //        ActivityCompat.requestPermissions(this,arrayOf(Manifest.permission),1)
-        
+        ActivityCompat.requestPermissions(this,arrayOf(android.Manifest.permission.READ_EXTERNAL_STORAGE),1)
+
         register_button_register.setOnClickListener {
             performRegister()
         }
